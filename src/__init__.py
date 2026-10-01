@@ -1,0 +1,1 @@
+"""Marketplace contract example package."""
